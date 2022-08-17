@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-01T15:41:09 IST" name="Default suite" finished-at="2022-08-01T15:41:09 IST" duration-ms="58">
+    <groups>
+    </groups>
+    <test started-at="2022-08-01T15:41:09 IST" name="Default test" finished-at="2022-08-01T15:41:09 IST" duration-ms="58">
+      <class name="Rutuja.QT_automation.TwoTestDemo">
+        <test-method is-config="true" signature="methodOneExecution()[pri:0, instance:Rutuja.QT_automation.TwoTestDemo@4d465b11]" started-at="2022-08-01T15:41:09 IST" name="methodOneExecution" finished-at="2022-08-01T15:41:09 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodOneExecution -->
+        <test-method signature="firstMethod()[pri:0, instance:Rutuja.QT_automation.TwoTestDemo@4d465b11]" started-at="2022-08-01T15:41:09 IST" name="firstMethod" finished-at="2022-08-01T15:41:09 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstMethod -->
+        <test-method is-config="true" signature="methodTwoExecution()[pri:0, instance:Rutuja.QT_automation.TwoTestDemo@4d465b11]" started-at="2022-08-01T15:41:09 IST" name="methodTwoExecution" finished-at="2022-08-01T15:41:09 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTwoExecution -->
+        <test-method signature="secondMethod()[pri:0, instance:Rutuja.QT_automation.TwoTestDemo@4d465b11]" started-at="2022-08-01T15:41:09 IST" name="secondMethod" finished-at="2022-08-01T15:41:09 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondMethod -->
+        <test-method is-config="true" signature="methodOneExecution()[pri:0, instance:Rutuja.QT_automation.TwoTestDemo@4d465b11]" started-at="2022-08-01T15:41:09 IST" name="methodOneExecution" finished-at="2022-08-01T15:41:09 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodOneExecution -->
+        <test-method is-config="true" signature="methodTwoExecution()[pri:0, instance:Rutuja.QT_automation.TwoTestDemo@4d465b11]" started-at="2022-08-01T15:41:09 IST" name="methodTwoExecution" finished-at="2022-08-01T15:41:09 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTwoExecution -->
+      </class> <!-- Rutuja.QT_automation.TwoTestDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
